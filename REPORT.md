@@ -2,11 +2,12 @@
 
 <ชื่อ-นามสกุล> <รหัสนักศึกษา>
 
-## Iron man class
+## IronMan class
 
 package com.company;
 
 public class IronMan {
+
     public class IronManRedGrey
     {
         String model;
@@ -54,10 +55,10 @@ public class IronMan {
 }
 
 ## Tree Class
-
 package com.company;
 
-public class Tree {
+public  {
+
     int[] photosynthesis(int carbon , int water){
         int Glucose = water/2 ;
         int Water = water/2 ;
@@ -68,13 +69,11 @@ public class Tree {
         return result;
     }
 }
-
-## create tree object
-
+## Tree Object
 package com.company;
 
-public class TreeObject
-{
+public class TreeObject{
+
     public class Tree
     {
         String name;
@@ -87,6 +86,9 @@ public class TreeObject
         void AbsorbCarbondioxide(){}
     }
 }
+
+
+
 
 
 
